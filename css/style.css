@@ -1,0 +1,18 @@
+.row {
+  display: flex;
+}
+
+.class_1 {
+  flex: 1;
+  width: 25% !important;
+}
+
+.class_2 {
+  flex: 2;
+  width: 50% !important;
+}
+
+.class_3 {
+  flex: 1;
+  width: 25% !important;
+}/*# sourceMappingURL=style.css.map */
